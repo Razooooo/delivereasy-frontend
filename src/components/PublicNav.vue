@@ -2,9 +2,9 @@
   <div class="nav-container">
     <img alt="Vue logo" src="../assets/logo.png" class="logo">
     <nav>
-      <router-link to="/">Accueil</router-link> |
-      <router-link to="/Liste">Livraison</router-link> |
-      <router-link to="/admin/dashboard">Admin</router-link>
+      <router-link to="/admin/dashboard">Accueil</router-link> |
+      <router-link to="public/liste">Livraison</router-link> |
+      <router-link to="/">Admin</router-link>
     </nav>
   </div>
 </template>

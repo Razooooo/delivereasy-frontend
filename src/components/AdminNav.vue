@@ -19,6 +19,9 @@
         <li>
           <router-link to="/admin/livraison">Livraison</router-link>
         </li>
+        <li>
+          <router-link to="/">Deconnexion</router-link>
+        </li>
       </ul>
     </div>
   </template>
